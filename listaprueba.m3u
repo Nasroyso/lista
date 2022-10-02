@@ -37,8 +37,14 @@ https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrcFjgyVk_oMyCfcqigN-l6Tgvx
 #EXTINF:-1, TN 
 https://www.youtube.com/watch?v=wHn1_QVoXGM&ab_channel=TodoNoticias
 
-#EXTINF:-1, TVN 24 HORAS
-https://www.youtube.com/watch?v=BFnB7tO33Ao&feature=youtu.be&ab_channel=24horas.cl
+#EXTINF:-1, LA RED
+https://d2ab26kihxq8p0.cloudfront.net/hls/live_720p30.m3u8
 
-#EXTINF:-1, DW Español en Vivo
-https://www.youtube.com/watch?v=RTjbYKBB828&ab_channel=DWEspa%C3%B1ol
+#EXTINF:-1, BIO BIO TV
+https://pantera2-100GB-cl-movistar.dps.live/bbtv/bbtv.smil/bbtv/livestream0/l_229_28518000_4753.ts?nimblesessionid=7811046
+
+#EXTINF:-1, TV+
+https://cl-a3-p-e-uy6.cdn.mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59/publish/media_2500.m3u8?aid=5c0e87c403a35601ebcffcf1&uid=iCbMyB9Ly7yuwiszftGGLhaCFGMqFtoB&sid=CqVXGrqAsFGexpTDq20mO2dZaY7IgTDA&pid=ExBKtHI3gBXwrY3L2bE8GaPVvuetfgxI&ref=http%3A%2F%2Fwww.tvmas.tv%2F&without_cookies=false&listenerid=&dnt=true&es=cl-a3-p-e-uy6.cdn.mdstrm.com&ote=1664765403788&ot=scu-ylAWpUE7no_uuoOjYA&proto=https&pz=cl
+
+#EXTINF:-1, UCV
+https://pantera1-100GB-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/l_422386_38144219_6352.ts?nimblesessionid=36789767
